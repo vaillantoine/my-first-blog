@@ -1,4 +1,3 @@
 from django.shortcuts import render
 
-def post_list():
-    pass
+# Create your views here.
